@@ -86,20 +86,20 @@ $source = $embed_player;
     <title>Embed Player</title>
     <link rel="shortcut icon" href="https://kodi.al/panel.ico"/>
     <link rel="icon" href="https://kodi.al/panel.ico"/>
-	<meta http-equiv="cache-control" content="no-store">
+    <meta http-equiv="cache-control" content="no-store">
     <meta name="description" content="Embed Player" />
     <meta name="author" content="Olsion Bakiaj - Endrit Pano" />
     <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-	<meta name="referrer" content="no-referrer"/>
+    <meta name="referrer" content="no-referrer"/>
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Albdroid TV">
-	<meta name="keywords" content="Albdroid TV" />
+    <meta name="keywords" content="Albdroid TV" />
     <meta name="application-name" content="Albdroid TV">
     <meta name="msapplication-tooltip" content="Albdroid TV">
     <meta name="msapplication-starturl" content="http://cdn.kodi.al">
-	<meta property="og:type" content="Television" />
+    <meta property="og:type" content="Television" />
     <meta name="msapplication-TileColor" content="#0F0">
     <meta name="msapplication-navbutton-color" content="#0F0">
     <meta name="theme-color" content="#0F0">
